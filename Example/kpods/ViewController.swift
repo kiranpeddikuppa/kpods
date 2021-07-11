@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import kpods
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let log = Logger()
+        log.printLog()
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 

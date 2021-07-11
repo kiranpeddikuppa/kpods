@@ -1,0 +1,6 @@
+framework module kpods {
+  umbrella header "kpods-umbrella.h"
+
+  export *
+  module * { export * }
+}

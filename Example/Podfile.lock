@@ -1,0 +1,16 @@
+PODS:
+  - kpods (0.1.0)
+
+DEPENDENCIES:
+  - kpods (from `../`)
+
+EXTERNAL SOURCES:
+  kpods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  kpods: 5e8c0b74afeaedf369f30928046bdc1964cab6b7
+
+PODFILE CHECKSUM: f6a3904ab2b71d271786ab94ee6086a321478578
+
+COCOAPODS: 1.10.1

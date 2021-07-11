@@ -1,0 +1,22 @@
+{
+  "name": "kpods",
+  "version": "0.1.0",
+  "summary": "A short description of kpods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kiran.peddikuppa@unbxd.com/kpods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kiran.peddikuppa@unbxd.com": "kiran.peddikuppa@unbxd.com"
+  },
+  "source": {
+    "git": "https://github.com/kiran.peddikuppa@unbxd.com/kpods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "kpods/Classes/**/*"
+}
