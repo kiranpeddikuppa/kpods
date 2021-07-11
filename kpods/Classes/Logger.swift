@@ -13,6 +13,12 @@ public class Logger{
     
     public func printLog(){
         
-        print("Hello Kiran's POD")
+        print("Hello Kiran's POD1")
+        print("Hello Kiran's POD2")
+        print("Hello Kiran's POD3")
+        print("Hello Kiran's POD4")
+        print("Hello Kiran's POD5")
+        print("Hello Kiran's POD6")
+        
     }
 }
